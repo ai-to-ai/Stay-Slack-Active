@@ -33,7 +33,6 @@ That's it, Enjoy!
 
 ## Appendix
 - 
-    ![AlwaysOnline](https://github.com/ai-to-ai/Stay-Slack-Active/assets/115906627/b5e13db5-ad31-42f1-9428-6ff933d0bcf0)
     ![AlwaysOnline](./data/alwaysonline_img_3.png)
 
 
