@@ -23,13 +23,17 @@ Enjoy using our Chrome Extension.
 1. Download Chrome Extension
 2. Sign up to [AlwaysOnline.io](https://alwaysonline.io/register)
 3. Schedule your online hours during the week.
+
+
+
+
 4. Turn on the switch
 
 That's it, Enjoy!
 
 ## Appendix
 - 
-    ![AlwaysOnline](./data/alwaysonline.mp4)
+    ![AlwaysOnline](https://github.com/ai-to-ai/Stay-Slack-Active/assets/115906627/b5e13db5-ad31-42f1-9428-6ff933d0bcf0)
     ![AlwaysOnline](./data/alwaysonline_img_3.png)
 
 
