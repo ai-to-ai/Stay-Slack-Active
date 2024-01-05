@@ -1,6 +1,6 @@
 # Stay-Slack-Active
 
-## Summary
+## How to Keep your Slack Status Active while you are away
  Free Stay Slack Active Chrome Extension 2024
 
 This is the chrome extension that users can schedule their online hours and break times freely and works perfectly as they expected.
