@@ -1,4 +1,4 @@
-# Stay-Slack-Active
+# Stay Slack Active While You Are Away
 
 ## How to Keep your Slack Status Active while you are away
  Free Stay Slack Active Chrome Extension 2024
